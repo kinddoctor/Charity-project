@@ -1,24 +1,16 @@
-# react-event
+## Проект-маркетплейс запросов о помощи для благотворительных организаций
+Визуальная часть разработана в соответствии с [макетом](https://www.figma.com/design/8GhqLYG4S1bGwuwTpFlzrH/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BE-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8?node-id=2-2)
 
-Starting repo for React hackaton
+Функционал:
+- возможность авторизации для зарегистрированных пользователей
+- просмотр базы запросов о помощи
+- возможность поиска запросов по названию (запроса или организации)
+- фильтрация запросов по различным параметрам
+- добавление запросов в избранное
+- возможность просмотра запросов в разной визуальной раскладке
+- отображение локаций для помощи в виде геометок (API Yandex Maps)
 
-Production version is available here:
-react-event-delta.vercel.app
 
-## Getting started
+Посмотреть в деле можно здесь:
+[react-event-delta.vercel.app](https://react-event-delta.vercel.app)
 
-> [!TIP]
-> You must use NodeJS >= 18
-
-```bash
-git clone git@github.com:mbredikhin/react-event.git
-cd react-event
-npm install
-npm run dev
-```
-
-## Production build
-
-```
-npm run build
-```
