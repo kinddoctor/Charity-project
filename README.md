@@ -11,6 +11,9 @@
 - отображение локаций для помощи в виде геометок (API Yandex Maps)
 
 
-Посмотреть в деле можно здесь:
-[react-event-delta.vercel.app](https://react-event-delta.vercel.app)
+Посмотреть в деле можно здесь: [react-event-delta.vercel.app](https://react-event-delta.vercel.app)\
+❗ При ошибке открытия - повторно нажмите на ссылку (Vercel иногда чудит 😅)
+
+
+![image](https://github.com/user-attachments/assets/79930de9-7890-4ca8-adae-37ed6f305663)
 
