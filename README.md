@@ -17,3 +17,10 @@
 
 ![image](https://github.com/user-attachments/assets/79930de9-7890-4ca8-adae-37ed6f305663)
 
+
+### Команда разработки:
+- [Максим](https://github.com/mbredikhin)
+- [Татьяна](https://github.com/kinddoctor)
+- [Хасан](https://github.com/gudzilla)
+- [Станислав](https://github.com/PiligrimStas)
+
